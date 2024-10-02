@@ -12,3 +12,7 @@ const employees = [
 ];
 
 // Start coding here
+//1
+employees[1].hobbies.push("Watching basketball")
+//2
+console.log(employees[1]);
